@@ -59,7 +59,7 @@ ggplot(data = popularity) +
   labs(y = "Popularity ratings")+
   labs(title= "\nFrench presidents' popularity ratings compare to PM's\n")+
   labs(color = "Political spectrum")+
-  theme(plot.title = element_text(size=30, face = "bold"))+
+  theme(plot.title = element_text(size=25, face = "bold"))+
   theme(axis.text = element_text( size = 14 ),
          #axis.text.x = element_text( size = 20),
          #axis.title = element_text( size = 14 ),

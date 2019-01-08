@@ -32,7 +32,7 @@ library(ggplot2)
 library(grid)
 
 p <- ggplot(data = popularity) +
-  aes(x = Month.of.presidency, y = Trust.Rating, color = President.of.France) +
+  aes(x = Month.of.presidency, y = Trust.Rating, color =  popularity$Person) +
   geom_line() +
   theme_minimal() +
   facet_wrap(vars(President.of.France))+
@@ -43,7 +43,7 @@ p <- ggplot(data = popularity) +
   labs(title= "\nFrench presidents' popularity over month of presidency\n")+
   theme(plot.title = element_text(size=25))
 
-#p
+p
 
 gp <- ggplotGrob(p)
 
@@ -76,7 +76,14 @@ grid::grid.draw(gp0)
 
 
 
-#ggplot(data = popularity) +
-#  aes(x = President.of.France, y = Trust.Rating) +
-#  geom_boxplot(fill = '#0c4c8a') +
-#  theme_minimal()
+#library(esquisse)
+#esquisse::esquisser()
+#library(ggplot2)
+
+# SIMPLE ALTERNATIVE
+
+ggplot(data = popularity) +
+  aes(x = Month.of.presidency, y = Trust.Rating, color = Person) +
+  geom_line() +
+  scale_color_brewer(palette = "PuOr") +
+  theme_minimal()
