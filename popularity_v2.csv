@@ -1,0 +1,963 @@
+Date,Trust Rating,Type,Person_1,Person_2,Wing
+Jun-17,49,PM's,2017- ,E.  Philippe,It's complicated
+Jul-17,47,PM's,2017- ,E.  Philippe,It's complicated
+Aug-17,43,PM's,2017- ,E.  Philippe,It's complicated
+Sep-17,39,PM's,2017- ,E.  Philippe,It's complicated
+Oct-17,37,PM's,2017- ,E.  Philippe,It's complicated
+Nov-17,36,PM's,2017- ,E.  Philippe,It's complicated
+Dec-17,40,PM's,2017- ,E.  Philippe,It's complicated
+Jan-18,42,PM's,2017- ,E.  Philippe,It's complicated
+Feb-18,42,PM's,2017- ,E.  Philippe,It's complicated
+Mar-18,40,PM's,2017- ,E.  Philippe,It's complicated
+Apr-18,38,PM's,2017- ,E.  Philippe,It's complicated
+May-18,39,PM's,2017- ,E.  Philippe,It's complicated
+Jun-18,38,PM's,2017- ,E.  Philippe,It's complicated
+Jul-18,32,PM's,2017- ,E.  Philippe,It's complicated
+Aug-18,32,PM's,2017- ,E.  Philippe,It's complicated
+Sep-18,32,PM's,2017- ,E.  Philippe,It's complicated
+Oct-18,31,PM's,2017- ,E.  Philippe,It's complicated
+Nov-18,31,PM's,2017- ,E.  Philippe,It's complicated
+Dec-18,22,PM's,2017- ,E.  Philippe,It's complicated
+Jan-17,32,PM's,2017-2017 ,B. Cazeneuve,Left-wing
+Feb-17,29,PM's,2017-2017 ,B. Cazeneuve,Left-wing
+Mar-17,29,PM's,2017-2017 ,B. Cazeneuve,Left-wing
+Apr-17,32,PM's,2017-2017 ,B. Cazeneuve,Left-wing
+May-17,29,PM's,2017-2017 ,B. Cazeneuve,Left-wing
+Apr-14,46,PM's,2014-2016 ,M. Valls,Right-wing
+May-14,45,PM's,2014-2016 ,M. Valls,Right-wing
+Jun-14,42,PM's,2014-2016 ,M. Valls,Right-wing
+Jul-14,44,PM's,2014-2016 ,M. Valls,Right-wing
+Aug-14,37,PM's,2014-2016 ,M. Valls,Right-wing
+Sep-14,30,PM's,2014-2016 ,M. Valls,Right-wing
+Oct-14,32,PM's,2014-2016 ,M. Valls,Right-wing
+Nov-14,30,PM's,2014-2016 ,M. Valls,Right-wing
+Dec-14,34,PM's,2014-2016 ,M. Valls,Right-wing
+Jan-15,41,PM's,2014-2016 ,M. Valls,Right-wing
+Feb-15,48,PM's,2014-2016 ,M. Valls,Right-wing
+Mar-15,42,PM's,2014-2016 ,M. Valls,Right-wing
+Apr-15,32,PM's,2014-2016 ,M. Valls,Right-wing
+May-15,35,PM's,2014-2016 ,M. Valls,Right-wing
+Jun-15,40,PM's,2014-2016 ,M. Valls,Right-wing
+Jul-15,36,PM's,2014-2016 ,M. Valls,Right-wing
+Aug-15,36.5,PM's,2014-2016 ,M. Valls,Right-wing
+Sep-15,37,PM's,2014-2016 ,M. Valls,Right-wing
+Oct-15,33,PM's,2014-2016 ,M. Valls,Right-wing
+Nov-15,32,PM's,2014-2016 ,M. Valls,Right-wing
+Dec-15,43,PM's,2014-2016 ,M. Valls,Right-wing
+Jan-16,36,PM's,2014-2016 ,M. Valls,Right-wing
+Feb-16,32,PM's,2014-2016 ,M. Valls,Right-wing
+Mar-16,27,PM's,2014-2016 ,M. Valls,Right-wing
+Apr-16,27,PM's,2014-2016 ,M. Valls,Right-wing
+May-16,26,PM's,2014-2016 ,M. Valls,Right-wing
+Jun-16,18,PM's,2014-2016 ,M. Valls,Right-wing
+Jul-16,20,PM's,2014-2016 ,M. Valls,Right-wing
+Aug-16,22.5,PM's,2014-2016 ,M. Valls,Right-wing
+Sep-16,25,PM's,2014-2016 ,M. Valls,Right-wing
+Oct-16,22,PM's,2014-2016 ,M. Valls,Right-wing
+Nov-16,25,PM's,2014-2016 ,M. Valls,Right-wing
+Dec-16,26,PM's,2014-2016 ,M. Valls,Right-wing
+Jun-12,50,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Jul-12,54,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Aug-12,52.5,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Sep-12,51,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Oct-12,41,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Nov-12,34,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Dec-12,30,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Jan-13,32,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Feb-13,33,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Mar-13,28,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Apr-13,25,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+May-13,23,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Jun-13,26,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Jul-13,26,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Aug-13,26.5,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Sep-13,27,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Oct-13,24,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Nov-13,22,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Dec-13,18,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Jan-14,21,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Feb-14,20,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Mar-14,16,PM's,2012-2014 ,J.M. Ayrault,Left-wing
+Jun-07,55,PM's,2007-2012 ,F. Fillon,Right-wing
+Jul-07,56,PM's,2007-2012 ,F. Fillon,Right-wing
+Aug-07,53,PM's,2007-2012 ,F. Fillon,Right-wing
+Sep-07,53,PM's,2007-2012 ,F. Fillon,Right-wing
+Oct-07,52,PM's,2007-2012 ,F. Fillon,Right-wing
+Nov-07,44,PM's,2007-2012 ,F. Fillon,Right-wing
+Dec-07,44,PM's,2007-2012 ,F. Fillon,Right-wing
+Jan-08,45,PM's,2007-2012 ,F. Fillon,Right-wing
+Feb-08,43,PM's,2007-2012 ,F. Fillon,Right-wing
+Mar-08,45,PM's,2007-2012 ,F. Fillon,Right-wing
+Apr-08,49,PM's,2007-2012 ,F. Fillon,Right-wing
+May-08,46,PM's,2007-2012 ,F. Fillon,Right-wing
+Jun-08,44,PM's,2007-2012 ,F. Fillon,Right-wing
+Jul-08,42,PM's,2007-2012 ,F. Fillon,Right-wing
+Aug-08,41.5,PM's,2007-2012 ,F. Fillon,Right-wing
+Sep-08,41,PM's,2007-2012 ,F. Fillon,Right-wing
+Oct-08,41,PM's,2007-2012 ,F. Fillon,Right-wing
+Nov-08,44,PM's,2007-2012 ,F. Fillon,Right-wing
+Dec-08,40,PM's,2007-2012 ,F. Fillon,Right-wing
+Jan-09,42,PM's,2007-2012 ,F. Fillon,Right-wing
+Feb-09,38,PM's,2007-2012 ,F. Fillon,Right-wing
+Mar-09,40,PM's,2007-2012 ,F. Fillon,Right-wing
+Apr-09,40,PM's,2007-2012 ,F. Fillon,Right-wing
+May-09,36,PM's,2007-2012 ,F. Fillon,Right-wing
+Jun-09,44,PM's,2007-2012 ,F. Fillon,Right-wing
+Jul-09,41,PM's,2007-2012 ,F. Fillon,Right-wing
+Aug-09,41,PM's,2007-2012 ,F. Fillon,Right-wing
+Sep-09,41,PM's,2007-2012 ,F. Fillon,Right-wing
+Oct-09,38,PM's,2007-2012 ,F. Fillon,Right-wing
+Nov-09,39,PM's,2007-2012 ,F. Fillon,Right-wing
+Dec-09,36,PM's,2007-2012 ,F. Fillon,Right-wing
+Jan-10,37,PM's,2007-2012 ,F. Fillon,Right-wing
+Feb-10,39,PM's,2007-2012 ,F. Fillon,Right-wing
+Mar-10,37,PM's,2007-2012 ,F. Fillon,Right-wing
+Apr-10,37,PM's,2007-2012 ,F. Fillon,Right-wing
+May-10,38,PM's,2007-2012 ,F. Fillon,Right-wing
+Jun-10,37,PM's,2007-2012 ,F. Fillon,Right-wing
+Jul-10,35,PM's,2007-2012 ,F. Fillon,Right-wing
+Aug-10,36,PM's,2007-2012 ,F. Fillon,Right-wing
+Sep-10,37,PM's,2007-2012 ,F. Fillon,Right-wing
+Oct-10,34,PM's,2007-2012 ,F. Fillon,Right-wing
+Nov-10,38,PM's,2007-2012 ,F. Fillon,Right-wing
+Dec-10,35,PM's,2007-2012 ,F. Fillon,Right-wing
+Jan-11,38,PM's,2007-2012 ,F. Fillon,Right-wing
+Feb-11,34,PM's,2007-2012 ,F. Fillon,Right-wing
+Mar-11,33,PM's,2007-2012 ,F. Fillon,Right-wing
+Apr-11,36,PM's,2007-2012 ,F. Fillon,Right-wing
+May-11,33,PM's,2007-2012 ,F. Fillon,Right-wing
+Jun-11,33,PM's,2007-2012 ,F. Fillon,Right-wing
+Jul-11,35,PM's,2007-2012 ,F. Fillon,Right-wing
+Aug-11,34,PM's,2007-2012 ,F. Fillon,Right-wing
+Sep-11,33,PM's,2007-2012 ,F. Fillon,Right-wing
+Oct-11,30,PM's,2007-2012 ,F. Fillon,Right-wing
+Nov-11,36,PM's,2007-2012 ,F. Fillon,Right-wing
+Dec-11,33,PM's,2007-2012 ,F. Fillon,Right-wing
+Jan-12,34,PM's,2007-2012 ,F. Fillon,Right-wing
+Feb-12,34,PM's,2007-2012 ,F. Fillon,Right-wing
+Mar-12,32,PM's,2007-2012 ,F. Fillon,Right-wing
+Apr-12,35,PM's,2007-2012 ,F. Fillon,Right-wing
+May-12,38,PM's,2007-2012 ,F. Fillon,Right-wing
+Jul-05,39,PM's,2005-2007 ,D. de Villepin,Right-wing
+Aug-05,48,PM's,2005-2007 ,D. de Villepin,Right-wing
+Sep-05,42,PM's,2005-2007 ,D. de Villepin,Right-wing
+Oct-05,44,PM's,2005-2007 ,D. de Villepin,Right-wing
+Nov-05,39,PM's,2005-2007 ,D. de Villepin,Right-wing
+Dec-05,45,PM's,2005-2007 ,D. de Villepin,Right-wing
+Jan-06,43,PM's,2005-2007 ,D. de Villepin,Right-wing
+Feb-06,38,PM's,2005-2007 ,D. de Villepin,Right-wing
+Mar-06,34,PM's,2005-2007 ,D. de Villepin,Right-wing
+Apr-06,29,PM's,2005-2007 ,D. de Villepin,Right-wing
+May-06,24,PM's,2005-2007 ,D. de Villepin,Right-wing
+Jun-06,20,PM's,2005-2007 ,D. de Villepin,Right-wing
+Jul-06,17,PM's,2005-2007 ,D. de Villepin,Right-wing
+Aug-06,22,PM's,2005-2007 ,D. de Villepin,Right-wing
+Sep-06,26,PM's,2005-2007 ,D. de Villepin,Right-wing
+Oct-06,29,PM's,2005-2007 ,D. de Villepin,Right-wing
+Nov-06,27,PM's,2005-2007 ,D. de Villepin,Right-wing
+Dec-06,29,PM's,2005-2007 ,D. de Villepin,Right-wing
+Jan-07,28,PM's,2005-2007 ,D. de Villepin,Right-wing
+Feb-07,28,PM's,2005-2007 ,D. de Villepin,Right-wing
+Mar-07,27,PM's,2005-2007 ,D. de Villepin,Right-wing
+Apr-07,30,PM's,2005-2007 ,D. de Villepin,Right-wing
+May-07,30,PM's,2005-2007 ,D. de Villepin,Right-wing
+Jun-02,60,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jul-02,58,PM's,2002-2005 ,JP Raffarin,Right-wing
+Aug-02,64,PM's,2002-2005 ,JP Raffarin,Right-wing
+Sep-02,55,PM's,2002-2005 ,JP Raffarin,Right-wing
+Oct-02,56,PM's,2002-2005 ,JP Raffarin,Right-wing
+Nov-02,56,PM's,2002-2005 ,JP Raffarin,Right-wing
+Dec-02,53,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jan-03,58,PM's,2002-2005 ,JP Raffarin,Right-wing
+Feb-03,53,PM's,2002-2005 ,JP Raffarin,Right-wing
+Mar-03,53,PM's,2002-2005 ,JP Raffarin,Right-wing
+Apr-03,50,PM's,2002-2005 ,JP Raffarin,Right-wing
+May-03,49,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jun-03,45,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jul-03,43,PM's,2002-2005 ,JP Raffarin,Right-wing
+Aug-03,45,PM's,2002-2005 ,JP Raffarin,Right-wing
+Sep-03,42,PM's,2002-2005 ,JP Raffarin,Right-wing
+Oct-03,37,PM's,2002-2005 ,JP Raffarin,Right-wing
+Nov-03,33,PM's,2002-2005 ,JP Raffarin,Right-wing
+Dec-03,29,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jan-04,34,PM's,2002-2005 ,JP Raffarin,Right-wing
+Feb-04,33,PM's,2002-2005 ,JP Raffarin,Right-wing
+Mar-04,31,PM's,2002-2005 ,JP Raffarin,Right-wing
+Apr-04,31,PM's,2002-2005 ,JP Raffarin,Right-wing
+May-04,26,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jun-04,28,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jul-04,26,PM's,2002-2005 ,JP Raffarin,Right-wing
+Aug-04,30,PM's,2002-2005 ,JP Raffarin,Right-wing
+Sep-04,26,PM's,2002-2005 ,JP Raffarin,Right-wing
+Oct-04,30,PM's,2002-2005 ,JP Raffarin,Right-wing
+Nov-04,26,PM's,2002-2005 ,JP Raffarin,Right-wing
+Dec-04,29,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jan-05,30,PM's,2002-2005 ,JP Raffarin,Right-wing
+Feb-05,29,PM's,2002-2005 ,JP Raffarin,Right-wing
+Mar-05,28,PM's,2002-2005 ,JP Raffarin,Right-wing
+Apr-05,27,PM's,2002-2005 ,JP Raffarin,Right-wing
+May-05,22,PM's,2002-2005 ,JP Raffarin,Right-wing
+Jun-97,63,PM's,1997-2002 ,L. Jospin,Left-wing
+Jul-97,66,PM's,1997-2002 ,L. Jospin,Left-wing
+Aug-97,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Sep-97,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Oct-97,58,PM's,1997-2002 ,L. Jospin,Left-wing
+Nov-97,57,PM's,1997-2002 ,L. Jospin,Left-wing
+Dec-97,59,PM's,1997-2002 ,L. Jospin,Left-wing
+Jan-98,54,PM's,1997-2002 ,L. Jospin,Left-wing
+Feb-98,56,PM's,1997-2002 ,L. Jospin,Left-wing
+Mar-98,58,PM's,1997-2002 ,L. Jospin,Left-wing
+Apr-98,60,PM's,1997-2002 ,L. Jospin,Left-wing
+May-98,60,PM's,1997-2002 ,L. Jospin,Left-wing
+Jun-98,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Jul-98,63,PM's,1997-2002 ,L. Jospin,Left-wing
+Aug-98,71,PM's,1997-2002 ,L. Jospin,Left-wing
+Sep-98,70,PM's,1997-2002 ,L. Jospin,Left-wing
+Oct-98,66,PM's,1997-2002 ,L. Jospin,Left-wing
+Nov-98,68,PM's,1997-2002 ,L. Jospin,Left-wing
+Dec-98,63,PM's,1997-2002 ,L. Jospin,Left-wing
+Jan-99,63,PM's,1997-2002 ,L. Jospin,Left-wing
+Feb-99,61,PM's,1997-2002 ,L. Jospin,Left-wing
+Mar-99,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Apr-99,61,PM's,1997-2002 ,L. Jospin,Left-wing
+May-99,67,PM's,1997-2002 ,L. Jospin,Left-wing
+Jun-99,63,PM's,1997-2002 ,L. Jospin,Left-wing
+Jul-99,68,PM's,1997-2002 ,L. Jospin,Left-wing
+Aug-99,67,PM's,1997-2002 ,L. Jospin,Left-wing
+Sep-99,64,PM's,1997-2002 ,L. Jospin,Left-wing
+Oct-99,64,PM's,1997-2002 ,L. Jospin,Left-wing
+Nov-99,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Dec-99,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Jan-00,64,PM's,1997-2002 ,L. Jospin,Left-wing
+Feb-00,61,PM's,1997-2002 ,L. Jospin,Left-wing
+Mar-00,57,PM's,1997-2002 ,L. Jospin,Left-wing
+Apr-00,57,PM's,1997-2002 ,L. Jospin,Left-wing
+May-00,59,PM's,1997-2002 ,L. Jospin,Left-wing
+Jun-00,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Jul-00,62,PM's,1997-2002 ,L. Jospin,Left-wing
+Aug-00,64,PM's,1997-2002 ,L. Jospin,Left-wing
+Sep-00,60,PM's,1997-2002 ,L. Jospin,Left-wing
+Oct-00,50,PM's,1997-2002 ,L. Jospin,Left-wing
+Nov-00,58,PM's,1997-2002 ,L. Jospin,Left-wing
+Dec-00,59,PM's,1997-2002 ,L. Jospin,Left-wing
+Jan-01,57,PM's,1997-2002 ,L. Jospin,Left-wing
+Feb-01,60,PM's,1997-2002 ,L. Jospin,Left-wing
+Mar-01,58,PM's,1997-2002 ,L. Jospin,Left-wing
+Apr-01,57,PM's,1997-2002 ,L. Jospin,Left-wing
+May-01,53,PM's,1997-2002 ,L. Jospin,Left-wing
+Jun-01,56,PM's,1997-2002 ,L. Jospin,Left-wing
+Jul-01,57,PM's,1997-2002 ,L. Jospin,Left-wing
+Aug-01,56,PM's,1997-2002 ,L. Jospin,Left-wing
+Sep-01,55,PM's,1997-2002 ,L. Jospin,Left-wing
+Oct-01,59,PM's,1997-2002 ,L. Jospin,Left-wing
+Nov-01,53,PM's,1997-2002 ,L. Jospin,Left-wing
+Dec-01,52,PM's,1997-2002 ,L. Jospin,Left-wing
+Jan-02,50,PM's,1997-2002 ,L. Jospin,Left-wing
+Feb-02,51,PM's,1997-2002 ,L. Jospin,Left-wing
+Mar-02,48,PM's,1997-2002 ,L. Jospin,Left-wing
+Apr-02,47,PM's,1997-2002 ,L. Jospin,Left-wing
+May-02,40,PM's,1997-2002 ,L. Jospin,Left-wing
+Jun-95,65,PM's,1995-1997 ,A. Juppé,Right-wing
+Jul-95,62,PM's,1995-1997 ,A. Juppé,Right-wing
+Aug-95,57,PM's,1995-1997 ,A. Juppé,Right-wing
+Sep-95,57,PM's,1995-1997 ,A. Juppé,Right-wing
+Oct-95,39,PM's,1995-1997 ,A. Juppé,Right-wing
+Nov-95,33,PM's,1995-1997 ,A. Juppé,Right-wing
+Dec-95,37,PM's,1995-1997 ,A. Juppé,Right-wing
+Jan-96,31,PM's,1995-1997 ,A. Juppé,Right-wing
+Feb-96,35,PM's,1995-1997 ,A. Juppé,Right-wing
+Mar-96,33,PM's,1995-1997 ,A. Juppé,Right-wing
+Apr-96,36,PM's,1995-1997 ,A. Juppé,Right-wing
+May-96,36,PM's,1995-1997 ,A. Juppé,Right-wing
+Jun-96,38,PM's,1995-1997 ,A. Juppé,Right-wing
+Jul-96,34,PM's,1995-1997 ,A. Juppé,Right-wing
+Aug-96,36,PM's,1995-1997 ,A. Juppé,Right-wing
+Sep-96,34,PM's,1995-1997 ,A. Juppé,Right-wing
+Oct-96,27,PM's,1995-1997 ,A. Juppé,Right-wing
+Nov-96,23,PM's,1995-1997 ,A. Juppé,Right-wing
+Dec-96,25,PM's,1995-1997 ,A. Juppé,Right-wing
+Jan-97,26,PM's,1995-1997 ,A. Juppé,Right-wing
+Feb-97,30,PM's,1995-1997 ,A. Juppé,Right-wing
+Mar-97,35,PM's,1995-1997 ,A. Juppé,Right-wing
+Apr-97,32,PM's,1995-1997 ,A. Juppé,Right-wing
+May-97,28,PM's,1995-1997 ,A. Juppé,Right-wing
+Apr-93,73,PM's,1993-1995 ,E. Balladur,Right-wing
+May-93,72,PM's,1993-1995 ,E. Balladur,Right-wing
+Jun-93,73,PM's,1993-1995 ,E. Balladur,Right-wing
+Jul-93,68,PM's,1993-1995 ,E. Balladur,Right-wing
+Aug-93,68,PM's,1993-1995 ,E. Balladur,Right-wing
+Sep-93,68,PM's,1993-1995 ,E. Balladur,Right-wing
+Oct-93,67,PM's,1993-1995 ,E. Balladur,Right-wing
+Nov-93,60,PM's,1993-1995 ,E. Balladur,Right-wing
+Dec-93,65,PM's,1993-1995 ,E. Balladur,Right-wing
+Jan-94,64,PM's,1993-1995 ,E. Balladur,Right-wing
+Feb-94,61,PM's,1993-1995 ,E. Balladur,Right-wing
+Mar-94,54,PM's,1993-1995 ,E. Balladur,Right-wing
+Apr-94,53,PM's,1993-1995 ,E. Balladur,Right-wing
+May-94,57,PM's,1993-1995 ,E. Balladur,Right-wing
+Jun-94,55,PM's,1993-1995 ,E. Balladur,Right-wing
+Jul-94,52,PM's,1993-1995 ,E. Balladur,Right-wing
+Aug-94,56,PM's,1993-1995 ,E. Balladur,Right-wing
+Sep-94,60,PM's,1993-1995 ,E. Balladur,Right-wing
+Oct-94,58,PM's,1993-1995 ,E. Balladur,Right-wing
+Nov-94,53,PM's,1993-1995 ,E. Balladur,Right-wing
+Dec-94,50,PM's,1993-1995 ,E. Balladur,Right-wing
+Jan-95,58,PM's,1993-1995 ,E. Balladur,Right-wing
+Feb-95,56,PM's,1993-1995 ,E. Balladur,Right-wing
+Mar-95,49,PM's,1993-1995 ,E. Balladur,Right-wing
+Apr-95,45,PM's,1993-1995 ,E. Balladur,Right-wing
+May-95,47,PM's,1993-1995 ,E. Balladur,Right-wing
+May-92,54,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Jun-92,60,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Jul-92,54,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Aug-92,52,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Sep-92,50,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Oct-92,52,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Nov-92,41,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Dec-92,42,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Jan-93,43,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Feb-93,41,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Mar-93,39,PM's,1992-1993 ,P. Beregovoy,Left-wing
+Jun-91,49,PM's,1991-1992 ,E. Cresson,Left-wing
+Jul-91,38,PM's,1991-1992 ,E. Cresson,Left-wing
+Aug-91,36,PM's,1991-1992 ,E. Cresson,Left-wing
+Sep-91,35,PM's,1991-1992 ,E. Cresson,Left-wing
+Oct-91,34,PM's,1991-1992 ,E. Cresson,Left-wing
+Nov-91,30,PM's,1991-1992 ,E. Cresson,Left-wing
+Dec-91,26,PM's,1991-1992 ,E. Cresson,Left-wing
+Jan-92,25,PM's,1991-1992 ,E. Cresson,Left-wing
+Feb-92,26,PM's,1991-1992 ,E. Cresson,Left-wing
+Mar-92,22,PM's,1991-1992 ,E. Cresson,Left-wing
+Apr-92,22,PM's,1991-1992 ,E. Cresson,Left-wing
+Jun-88,66,PM's,1988-1991 ,M. Rocard,Left-wing
+Jul-88,61,PM's,1988-1991 ,M. Rocard,Left-wing
+Aug-88,60,PM's,1988-1991 ,M. Rocard,Left-wing
+Sep-88,60,PM's,1988-1991 ,M. Rocard,Left-wing
+Oct-88,66,PM's,1988-1991 ,M. Rocard,Left-wing
+Nov-88,66,PM's,1988-1991 ,M. Rocard,Left-wing
+Dec-88,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Jan-89,56,PM's,1988-1991 ,M. Rocard,Left-wing
+Feb-89,55,PM's,1988-1991 ,M. Rocard,Left-wing
+Mar-89,55,PM's,1988-1991 ,M. Rocard,Left-wing
+Apr-89,59,PM's,1988-1991 ,M. Rocard,Left-wing
+May-89,63,PM's,1988-1991 ,M. Rocard,Left-wing
+Jun-89,65,PM's,1988-1991 ,M. Rocard,Left-wing
+Jul-89,62,PM's,1988-1991 ,M. Rocard,Left-wing
+Aug-89,61,PM's,1988-1991 ,M. Rocard,Left-wing
+Sep-89,61,PM's,1988-1991 ,M. Rocard,Left-wing
+Oct-89,62,PM's,1988-1991 ,M. Rocard,Left-wing
+Nov-89,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Dec-89,58,PM's,1988-1991 ,M. Rocard,Left-wing
+Jan-90,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Feb-90,59,PM's,1988-1991 ,M. Rocard,Left-wing
+Mar-90,60,PM's,1988-1991 ,M. Rocard,Left-wing
+Apr-90,57,PM's,1988-1991 ,M. Rocard,Left-wing
+May-90,60,PM's,1988-1991 ,M. Rocard,Left-wing
+Jun-90,56,PM's,1988-1991 ,M. Rocard,Left-wing
+Jul-90,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Aug-90,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Sep-90,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Oct-90,57,PM's,1988-1991 ,M. Rocard,Left-wing
+Nov-90,54,PM's,1988-1991 ,M. Rocard,Left-wing
+Dec-90,48,PM's,1988-1991 ,M. Rocard,Left-wing
+Jan-91,49,PM's,1988-1991 ,M. Rocard,Left-wing
+Feb-91,55,PM's,1988-1991 ,M. Rocard,Left-wing
+Mar-91,53,PM's,1988-1991 ,M. Rocard,Left-wing
+Apr-91,53,PM's,1988-1991 ,M. Rocard,Left-wing
+May-91,50,PM's,1988-1991 ,M. Rocard,Left-wing
+Apr-86,57,PM's,1986-1988 ,J. Chirac,Right-wing
+May-86,56,PM's,1986-1988 ,J. Chirac,Right-wing
+Jun-86,50,PM's,1986-1988 ,J. Chirac,Right-wing
+Jul-86,47,PM's,1986-1988 ,J. Chirac,Right-wing
+Aug-86,46,PM's,1986-1988 ,J. Chirac,Right-wing
+Sep-86,46,PM's,1986-1988 ,J. Chirac,Right-wing
+Oct-86,58,PM's,1986-1988 ,J. Chirac,Right-wing
+Nov-86,51,PM's,1986-1988 ,J. Chirac,Right-wing
+Dec-86,53,PM's,1986-1988 ,J. Chirac,Right-wing
+Jan-87,46,PM's,1986-1988 ,J. Chirac,Right-wing
+Feb-87,44,PM's,1986-1988 ,J. Chirac,Right-wing
+Mar-87,41,PM's,1986-1988 ,J. Chirac,Right-wing
+Apr-87,44,PM's,1986-1988 ,J. Chirac,Right-wing
+May-87,44,PM's,1986-1988 ,J. Chirac,Right-wing
+Jun-87,41,PM's,1986-1988 ,J. Chirac,Right-wing
+Jul-87,43,PM's,1986-1988 ,J. Chirac,Right-wing
+Aug-87,42,PM's,1986-1988 ,J. Chirac,Right-wing
+Sep-87,42,PM's,1986-1988 ,J. Chirac,Right-wing
+Oct-87,43,PM's,1986-1988 ,J. Chirac,Right-wing
+Nov-87,43,PM's,1986-1988 ,J. Chirac,Right-wing
+Dec-87,45,PM's,1986-1988 ,J. Chirac,Right-wing
+Jan-88,45,PM's,1986-1988 ,J. Chirac,Right-wing
+Feb-88,43,PM's,1986-1988 ,J. Chirac,Right-wing
+Mar-88,43,PM's,1986-1988 ,J. Chirac,Right-wing
+Apr-88,48,PM's,1986-1988 ,J. Chirac,Right-wing
+Sep-84,53,PM's,1984-1986 ,L. Fabius,Left-wing
+Oct-84,50,PM's,1984-1986 ,L. Fabius,Left-wing
+Nov-84,49,PM's,1984-1986 ,L. Fabius,Left-wing
+Dec-84,47,PM's,1984-1986 ,L. Fabius,Left-wing
+Jan-85,49,PM's,1984-1986 ,L. Fabius,Left-wing
+Feb-85,50,PM's,1984-1986 ,L. Fabius,Left-wing
+Mar-85,55,PM's,1984-1986 ,L. Fabius,Left-wing
+Apr-85,59,PM's,1984-1986 ,L. Fabius,Left-wing
+May-85,57,PM's,1984-1986 ,L. Fabius,Left-wing
+Jun-85,56,PM's,1984-1986 ,L. Fabius,Left-wing
+Jul-85,47,PM's,1984-1986 ,L. Fabius,Left-wing
+Aug-85,47,PM's,1984-1986 ,L. Fabius,Left-wing
+Sep-85,47,PM's,1984-1986 ,L. Fabius,Left-wing
+Oct-85,48,PM's,1984-1986 ,L. Fabius,Left-wing
+Nov-85,49,PM's,1984-1986 ,L. Fabius,Left-wing
+Dec-85,41,PM's,1984-1986 ,L. Fabius,Left-wing
+Jan-86,38,PM's,1984-1986 ,L. Fabius,Left-wing
+Feb-86,39,PM's,1984-1986 ,L. Fabius,Left-wing
+Mar-86,44,PM's,1984-1986 ,L. Fabius,Left-wing
+Jun-81,71,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jul-81,73,PM's,1981-1984 ,P. Mauroy,Left-wing
+Aug-81,70,PM's,1981-1984 ,P. Mauroy,Left-wing
+Sep-81,68,PM's,1981-1984 ,P. Mauroy,Left-wing
+Oct-81,70,PM's,1981-1984 ,P. Mauroy,Left-wing
+Nov-81,63,PM's,1981-1984 ,P. Mauroy,Left-wing
+Dec-81,58,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jan-82,60,PM's,1981-1984 ,P. Mauroy,Left-wing
+Feb-82,59,PM's,1981-1984 ,P. Mauroy,Left-wing
+Mar-82,57,PM's,1981-1984 ,P. Mauroy,Left-wing
+Apr-82,51,PM's,1981-1984 ,P. Mauroy,Left-wing
+May-82,51,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jun-82,55,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jul-82,49,PM's,1981-1984 ,P. Mauroy,Left-wing
+Aug-82,47,PM's,1981-1984 ,P. Mauroy,Left-wing
+Sep-82,46,PM's,1981-1984 ,P. Mauroy,Left-wing
+Oct-82,47,PM's,1981-1984 ,P. Mauroy,Left-wing
+Nov-82,45,PM's,1981-1984 ,P. Mauroy,Left-wing
+Dec-82,44,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jan-83,40,PM's,1981-1984 ,P. Mauroy,Left-wing
+Feb-83,41,PM's,1981-1984 ,P. Mauroy,Left-wing
+Mar-83,39,PM's,1981-1984 ,P. Mauroy,Left-wing
+Apr-83,37,PM's,1981-1984 ,P. Mauroy,Left-wing
+May-83,37,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jun-83,33,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jul-83,34,PM's,1981-1984 ,P. Mauroy,Left-wing
+Aug-83,35,PM's,1981-1984 ,P. Mauroy,Left-wing
+Sep-83,31,PM's,1981-1984 ,P. Mauroy,Left-wing
+Oct-83,30,PM's,1981-1984 ,P. Mauroy,Left-wing
+Nov-83,31,PM's,1981-1984 ,P. Mauroy,Left-wing
+Dec-83,30,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jan-84,32,PM's,1981-1984 ,P. Mauroy,Left-wing
+Feb-84,29,PM's,1981-1984 ,P. Mauroy,Left-wing
+Mar-84,31,PM's,1981-1984 ,P. Mauroy,Left-wing
+Apr-84,29,PM's,1981-1984 ,P. Mauroy,Left-wing
+May-84,30,PM's,1981-1984 ,P. Mauroy,Left-wing
+Jun-84,25,PM's,1981-1984 ,P. Mauroy,Left-wing
+Oct-78,41,PM's,1978-1981 ,R. Barre,Right-wing
+Nov-78,41,PM's,1978-1981 ,R. Barre,Right-wing
+Dec-78,44,PM's,1978-1981 ,R. Barre,Right-wing
+Jan-79,43,PM's,1978-1981 ,R. Barre,Right-wing
+Feb-79,42,PM's,1978-1981 ,R. Barre,Right-wing
+Mar-79,36,PM's,1978-1981 ,R. Barre,Right-wing
+Apr-79,37,PM's,1978-1981 ,R. Barre,Right-wing
+May-79,39,PM's,1978-1981 ,R. Barre,Right-wing
+Jun-79,39,PM's,1978-1981 ,R. Barre,Right-wing
+Jul-79,37,PM's,1978-1981 ,R. Barre,Right-wing
+Aug-79,36,PM's,1978-1981 ,R. Barre,Right-wing
+Sep-79,29,PM's,1978-1981 ,R. Barre,Right-wing
+Oct-79,33,PM's,1978-1981 ,R. Barre,Right-wing
+Nov-79,35,PM's,1978-1981 ,R. Barre,Right-wing
+Dec-79,40,PM's,1978-1981 ,R. Barre,Right-wing
+Jan-80,40,PM's,1978-1981 ,R. Barre,Right-wing
+Feb-80,36,PM's,1978-1981 ,R. Barre,Right-wing
+Mar-80,38,PM's,1978-1981 ,R. Barre,Right-wing
+Apr-80,35,PM's,1978-1981 ,R. Barre,Right-wing
+May-80,32,PM's,1978-1981 ,R. Barre,Right-wing
+Jun-80,34,PM's,1978-1981 ,R. Barre,Right-wing
+Jul-80,35,PM's,1978-1981 ,R. Barre,Right-wing
+Aug-80,34,PM's,1978-1981 ,R. Barre,Right-wing
+Sep-80,34,PM's,1978-1981 ,R. Barre,Right-wing
+Oct-80,35,PM's,1978-1981 ,R. Barre,Right-wing
+Nov-80,34,PM's,1978-1981 ,R. Barre,Right-wing
+Dec-80,33,PM's,1978-1981 ,R. Barre,Right-wing
+Jan-81,31,PM's,1978-1981 ,R. Barre,Right-wing
+Feb-81,30,PM's,1978-1981 ,R. Barre,Right-wing
+Mar-81,25,PM's,1978-1981 ,R. Barre,Right-wing
+Apr-81,28,PM's,1978-1981 ,R. Barre,Right-wing
+May-81,25,PM's,1978-1981 ,R. Barre,Right-wing
+Oct-78,60,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Nov-78,59,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Dec-78,62,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jan-79,62,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Feb-79,57,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Mar-79,51,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Apr-79,54,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+May-79,56,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jun-79,56,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jul-79,54,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Aug-79,51,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Sep-79,49,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Oct-79,51,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Nov-79,52,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Dec-79,55,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jan-80,54,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Feb-80,58,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Mar-80,59,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Apr-80,56,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+May-80,51,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jun-80,53,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jul-80,51,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Aug-80,52,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Sep-80,54,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Oct-80,51,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Nov-80,50,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Dec-80,53,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jan-81,47,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Feb-81,44,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Mar-81,41,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Apr-81,44,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+May-81,44,Presidents,1974-1981 ,V. Giscard d'Estaing,Right-wing
+Jun-81,74,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-81,71,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-81,66,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-81,62,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-81,64,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-81,60,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-81,57,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-82,59,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-82,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-82,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-82,56,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-82,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jun-82,63,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-82,57,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-82,55,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-82,54,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-82,51,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-82,53,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-82,49,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-83,48,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-83,50,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-83,48,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-83,48,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-83,49,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jun-83,46,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-83,40,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-83,41,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-83,43,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-83,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-83,42,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-83,46,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-84,47,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-84,44,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-84,43,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-84,44,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-84,40,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jun-84,41,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-84,40,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-84,40,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-84,40,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-84,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-84,37,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-84,36,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-85,36,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-85,39,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-85,41,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-85,39,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-85,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jun-85,41,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-85,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-85,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-85,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-85,38,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-85,41,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-85,43,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-86,43,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-86,45,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-86,46,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-86,56,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-86,56,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jun-86,55,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-86,59,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-86,57,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-86,55,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-86,61,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-86,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-86,56,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-87,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-87,56,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-87,51,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-87,54,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-87,57,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jun-87,54,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jul-87,57,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Aug-87,59,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Sep-87,61,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Oct-87,60,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Nov-87,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Dec-87,56,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Jan-88,58,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Feb-88,62,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Mar-88,61,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+Apr-88,59,Presidents,1981-1988 ,F. Mitterrand,Left-wing
+May-88,57,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-88,63,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-88,63,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-88,62,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-88,62,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-88,64,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-88,63,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-88,58,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-89,60,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-89,58,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-89,58,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-89,60,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-89,61,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-89,62,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-89,58,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-89,58,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-89,59,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-89,57,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-89,55,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-89,58,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-90,56,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-90,61,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-90,61,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-90,55,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-90,53,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-90,52,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-90,54,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-90,54,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-90,55,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-90,64,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-90,60,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-90,53,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-91,55,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-91,65,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-91,62,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-91,61,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-91,56,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-91,54,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-91,48,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-91,50,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-91,52,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-91,46,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-91,39,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-91,31,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-92,35,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-92,35,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-92,35,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-92,33,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-92,37,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-92,37,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-92,38,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-92,37,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-92,36,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-92,43,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-92,34,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-92,32,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-93,33,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-93,31,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-93,31,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-93,39,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-93,34,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-93,35,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-93,37,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-93,38,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-93,39,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-93,40,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-93,40,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-93,38,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-94,41,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-94,38,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-94,40,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-94,39,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-94,40,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-94,43,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jul-94,40,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Aug-94,42,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Sep-94,43,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Oct-94,42,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Nov-94,41,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Dec-94,38,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jan-95,42,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Feb-95,42,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Mar-95,41,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Apr-95,35,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+May-95,34,Presidents,1988-1995 ,F. Mitterrand 2,Left-wing
+Jun-95,64,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-95,63,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-95,56,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-95,54,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-95,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-95,37,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-95,39,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-96,35,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-96,40,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-96,40,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-96,45,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-96,44,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jun-96,47,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-96,42,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-96,43,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-96,40,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-96,37,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-96,32,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-96,37,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-97,36,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-97,35,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-97,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-97,38,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-97,38,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jun-97,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-97,46,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-97,47,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-97,45,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-97,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-97,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-97,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-98,44,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-98,47,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-98,55,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-98,51,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-98,48,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jun-98,45,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-98,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-98,59,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-98,56,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-98,57,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-98,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-98,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-99,54,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-99,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-99,55,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-99,53,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-99,63,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jun-99,54,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-99,55,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-99,58,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-99,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-99,56,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-99,51,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-99,50,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-00,53,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-00,49,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-00,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-00,53,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-00,54,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jun-00,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-00,55,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-00,57,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-00,52,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-00,41,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-00,49,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-00,47,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-01,50,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-01,50,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-01,49,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-01,51,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-01,46,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jun-01,45,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jul-01,45,Presidents,1995-2002 ,J. Chirac,Right-wing
+Aug-01,45,Presidents,1995-2002 ,J. Chirac,Right-wing
+Sep-01,47,Presidents,1995-2002 ,J. Chirac,Right-wing
+Oct-01,57,Presidents,1995-2002 ,J. Chirac,Right-wing
+Nov-01,56,Presidents,1995-2002 ,J. Chirac,Right-wing
+Dec-01,50,Presidents,1995-2002 ,J. Chirac,Right-wing
+Jan-02,46,Presidents,1995-2002 ,J. Chirac,Right-wing
+Feb-02,46,Presidents,1995-2002 ,J. Chirac,Right-wing
+Mar-02,43,Presidents,1995-2002 ,J. Chirac,Right-wing
+Apr-02,40,Presidents,1995-2002 ,J. Chirac,Right-wing
+May-02,52,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jun-02,50,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jul-02,47,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Aug-02,54,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Sep-02,47,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Oct-02,50,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Nov-02,49,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Dec-02,47,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jan-03,52,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Feb-03,50,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Mar-03,55,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Apr-03,60,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+May-03,53,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jun-03,49,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jul-03,47,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Aug-03,50,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Sep-03,46,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Oct-03,43,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Nov-03,40,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Dec-03,40,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jan-04,43,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Feb-04,39,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Mar-04,35,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Apr-04,40,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+May-04,32,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jun-04,35,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jul-04,34,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Aug-04,37,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Sep-04,36,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Oct-04,36,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Nov-04,36,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Dec-04,38,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jan-05,41,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Feb-05,37,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Mar-05,36,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Apr-05,36,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+May-05,32,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jun-05,24,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jul-05,21,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Aug-05,28,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Sep-05,26,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Oct-05,26,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Nov-05,24,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Dec-05,26,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jan-06,21,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Feb-06,21,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Mar-06,23,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Apr-06,20,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+May-06,19,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jun-06,17,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jul-06,16,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Aug-06,21,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Sep-06,25,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Oct-06,24,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Nov-06,24,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Dec-06,25,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jan-07,23,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Feb-07,25,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Mar-07,29,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Apr-07,30,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+May-07,30,Presidents,2002-2007 ,J. Chirac 2,Right-wing
+Jun-07,63,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jul-07,65,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Aug-07,64,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Sep-07,64,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Oct-07,57,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Nov-07,53,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Dec-07,49,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jan-08,49,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Feb-08,41,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Mar-08,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Apr-08,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+May-08,32,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jun-08,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jul-08,33,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Aug-08,33.5,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Sep-08,34,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Oct-08,36,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Nov-08,39,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Dec-08,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jan-09,41,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Feb-09,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Mar-09,38,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Apr-09,36,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+May-09,32,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jun-09,41,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jul-09,38,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Aug-09,38.5,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Sep-09,39,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Oct-09,39,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Nov-09,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Dec-09,34,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jan-10,32,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Feb-10,31,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Mar-10,31,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Apr-10,28,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+May-10,30,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jun-10,28,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jul-10,26,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Aug-10,28,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Sep-10,30,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Oct-10,26,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Nov-10,26,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Dec-10,24,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jan-11,27,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Feb-11,24,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Mar-11,22,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Apr-11,23,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+May-11,20,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jun-11,22,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jul-11,25,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Aug-11,24.5,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Sep-11,24,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Oct-11,24,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Nov-11,30,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Dec-11,29,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jan-12,29,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Feb-12,29,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Mar-12,26,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Apr-12,33,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+May-12,37,Presidents,2007-2012 ,N. Sarkozy,Right-wing
+Jun-12,55,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jul-12,55,Presidents,2012-2017 ,F. Hollande,Left-wing
+Aug-12,52.5,Presidents,2012-2017 ,F. Hollande,Left-wing
+Sep-12,50,Presidents,2012-2017 ,F. Hollande,Left-wing
+Oct-12,41,Presidents,2012-2017 ,F. Hollande,Left-wing
+Nov-12,36,Presidents,2012-2017 ,F. Hollande,Left-wing
+Dec-12,35,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jan-13,35,Presidents,2012-2017 ,F. Hollande,Left-wing
+Feb-13,35,Presidents,2012-2017 ,F. Hollande,Left-wing
+Dec-15,35,Presidents,2012-2017 ,F. Hollande,Left-wing
+Mar-13,30,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jun-13,29,Presidents,2012-2017 ,F. Hollande,Left-wing
+Apr-13,27,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jul-13,27,Presidents,2012-2017 ,F. Hollande,Left-wing
+Aug-13,27,Presidents,2012-2017 ,F. Hollande,Left-wing
+Sep-13,27,Presidents,2012-2017 ,F. Hollande,Left-wing
+May-13,24,Presidents,2012-2017 ,F. Hollande,Left-wing
+Oct-13,23,Presidents,2012-2017 ,F. Hollande,Left-wing
+Feb-15,23,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jan-16,23,Presidents,2012-2017 ,F. Hollande,Left-wing
+Mar-15,22,Presidents,2012-2017 ,F. Hollande,Left-wing
+Nov-13,21,Presidents,2012-2017 ,F. Hollande,Left-wing
+Dec-13,21,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jan-14,21,Presidents,2012-2017 ,F. Hollande,Left-wing
+Apr-17,21,Presidents,2012-2017 ,F. Hollande,Left-wing
+Apr-14,20,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jan-15,20,Presidents,2012-2017 ,F. Hollande,Left-wing
+Feb-14,19,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jun-15,19,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jul-15,19,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jan-17,19,Presidents,2012-2017 ,F. Hollande,Left-wing
+Aug-15,18.5,Presidents,2012-2017 ,F. Hollande,Left-wing
+May-14,18,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jul-14,18,Presidents,2012-2017 ,F. Hollande,Left-wing
+Apr-15,18,Presidents,2012-2017 ,F. Hollande,Left-wing
+Sep-15,18,Presidents,2012-2017 ,F. Hollande,Left-wing
+Feb-17,18,Presidents,2012-2017 ,F. Hollande,Left-wing
+Mar-14,17,Presidents,2012-2017 ,F. Hollande,Left-wing
+Sep-16,17,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jun-14,16,Presidents,2012-2017 ,F. Hollande,Left-wing
+May-15,16,Presidents,2012-2017 ,F. Hollande,Left-wing
+Oct-15,16,Presidents,2012-2017 ,F. Hollande,Left-wing
+Mar-16,16,Presidents,2012-2017 ,F. Hollande,Left-wing
+Mar-17,16,Presidents,2012-2017 ,F. Hollande,Left-wing
+Aug-14,15.5,Presidents,2012-2017 ,F. Hollande,Left-wing
+Dec-14,15,Presidents,2012-2017 ,F. Hollande,Left-wing
+Nov-15,15,Presidents,2012-2017 ,F. Hollande,Left-wing
+Feb-16,15,Presidents,2012-2017 ,F. Hollande,Left-wing
+Apr-16,15,Presidents,2012-2017 ,F. Hollande,Left-wing
+Aug-16,14.5,Presidents,2012-2017 ,F. Hollande,Left-wing
+Oct-14,14,Presidents,2012-2017 ,F. Hollande,Left-wing
+May-17,14,Presidents,2012-2017 ,F. Hollande,Left-wing
+Sep-14,13,Presidents,2012-2017 ,F. Hollande,Left-wing
+Nov-14,13,Presidents,2012-2017 ,F. Hollande,Left-wing
+May-16,13,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jun-16,13,Presidents,2012-2017 ,F. Hollande,Left-wing
+Oct-16,13,Presidents,2012-2017 ,F. Hollande,Left-wing
+Dec-16,13,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jul-16,12,Presidents,2012-2017 ,F. Hollande,Left-wing
+Nov-16,11,Presidents,2012-2017 ,F. Hollande,Left-wing
+Jun-17,57,Presidents,2017- ,E. Macron,It's complicated
+Jul-17,54,Presidents,2017- ,E. Macron,It's complicated
+Aug-17,47.5,Presidents,2017- ,E. Macron,It's complicated
+Sep-17,41,Presidents,2017- ,E. Macron,It's complicated
+Oct-17,39,Presidents,2017- ,E. Macron,It's complicated
+Nov-17,38,Presidents,2017- ,E. Macron,It's complicated
+Dec-17,42,Presidents,2017- ,E. Macron,It's complicated
+Jan-18,44,Presidents,2017- ,E. Macron,It's complicated
+Feb-18,44,Presidents,2017- ,E. Macron,It's complicated
+Mar-18,43,Presidents,2017- ,E. Macron,It's complicated
+Apr-18,40,Presidents,2017- ,E. Macron,It's complicated
+May-18,41,Presidents,2017- ,E. Macron,It's complicated
+Jun-18,38,Presidents,2017- ,E. Macron,It's complicated
+Jul-18,32,Presidents,2017- ,E. Macron,It's complicated
+Aug-18,32.5,Presidents,2017- ,E. Macron,It's complicated
+Sep-18,33,Presidents,2017- ,E. Macron,It's complicated
+Oct-18,30,Presidents,2017- ,E. Macron,It's complicated
+Nov-18,26,Presidents,2017- ,E. Macron,It's complicated
+Dec-18,21,Presidents,2017- ,E. Macron,It's complicated
