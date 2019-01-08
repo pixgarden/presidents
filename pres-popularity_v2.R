@@ -73,3 +73,5 @@ p
 grid.text((paste("Source: TNS Sofres - Oct 1978 > Dec 2018 - dataviz:/u/pixgarden")),
           x = unit(.05, "npc"), y = unit(.03, "npc"), just = c("left", "bottom"), 
           gp = gpar(fontface = "bold", fontsize = 12, col = "grey"))
+
+
